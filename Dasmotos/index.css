@@ -1,0 +1,45 @@
+h1{
+    background: url('file:///C:/Users/OFFICE/Downloads/pattern1.webp');
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+h2{
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3{
+    font-family: Helvetica;
+}
+
+#text {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frames{
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.paint{
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+p{
+    font-family: Helvetica;
+}
